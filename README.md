@@ -2,8 +2,10 @@
 REST API used to run  composte admin
 
 
-run comand lines : 
+run comand lines :
+
 npm install
+
 npm start
 
 routes : 
